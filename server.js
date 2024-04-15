@@ -1,3 +1,6 @@
+const fs = require("fs")
+const path = require("path")
+const db = JSON.parse(fs.readFileSync(path.join("db.json")))
 require('dotenv').config();
 const cors = require('cors')
 const jsonServer = require("json-server");
