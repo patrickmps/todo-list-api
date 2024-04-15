@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": "f0f1f2f3-4f5f-6f7f-8f9f-0f1f2f3f4f5f",
+      "note": "Ligar para o médico",
+      "done": false
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7f8f-9a0b-c1d2e3f4a5b",
+      "note": "Pagar a conta de luz",
+      "done": false
+    },
+    {
+      "id": "e0f1a2b3-c4d5-e6f7-a8b9-c0d1e2f3a4b",
+      "note": "Estudar para o exame",
+      "done": false
+    },
+    {
+      "id": "a5b6c7d8-e9f0-a1b2-c3d4-e5f6a7b8c9d",
+      "note": "Ler um livro",
+      "done": false
+    },
+    {
+      "id": "b0c1d2e3-f4a5-b6c7-d8e9-f0a1b2c3d4e5",
+      "note": "Fazer compras",
+      "done": false
+    },
+    {
+      "id": "e6f7a8b9-c0d1-e2f3-a4b5-c6d7e8f9a0b",
+      "note": "Limpar o quarto",
+      "done": false
+    },
+    {
+      "id": "b1c2d3e4-f5a6-b7c8-d9e0-f1a2b3c4d5e6",
+      "note": "Assistir a um filme",
+      "done": false
+    },
+    {
+      "id": "a7b8c9d0-e1f2-a3b4-c5d6-e7f8a9b0c1d",
+      "note": "Preparar o jantar",
+      "done": false
+    }
+  ]
+}
